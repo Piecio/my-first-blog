@@ -25,7 +25,7 @@ SECRET_KEY = 'f*967v%-bqp5+y=jg%4msk*6i64xc*@xnuxof_uf#6$ax!zirw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [mobiqu.pythonanywhere.com]
 
 
 # Application definition
